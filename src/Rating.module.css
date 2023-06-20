@@ -1,0 +1,15 @@
+.ratingContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.rating {
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.votes {
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
